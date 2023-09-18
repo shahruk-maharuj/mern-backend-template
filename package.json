@@ -42,5 +42,9 @@
       "npm run lint:fix",
       "npm run format:fix"
     ]
+  },
+  "dependencies": {
+    "@types/dotenv": "^8.2.0",
+    "dotenv": "^16.3.1"
   }
 }
