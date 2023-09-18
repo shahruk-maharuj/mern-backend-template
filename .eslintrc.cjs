@@ -18,4 +18,7 @@ module.exports = {
     '@typescript-eslint/no-misused-promises': 'off',
     '@typescript-eslint/require-await': 'off',
   },
+  env: {
+    node: true,
+  },
 };
