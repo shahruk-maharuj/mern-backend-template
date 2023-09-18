@@ -1,0 +1,24 @@
+{
+  "name": "auth-service",
+  "version": "1.0.0",
+  "description": "A user management service",
+  "main": "index.js",
+  "scripts": {
+    "dev": "node src/server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shahruk-maharuj/mern-auth-service.git"
+  },
+  "keywords": [
+    "auth-service",
+    "backend",
+    "template"
+  ],
+  "author": "Shahruk Maharuj <shahrukpro@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/shahruk-maharuj/mern-auth-service/issues"
+  },
+  "homepage": "https://github.com/shahruk-maharuj/mern-auth-service#readme"
+}
